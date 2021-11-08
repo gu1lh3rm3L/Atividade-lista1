@@ -1,0 +1,13 @@
+config-err-CTzX3e
+snap.snap-store
+ssh-KmBVVOE1Nqm8
+systemd-private-4a263924798c40949cde0be36b1668a3-colord.service-Ng8Ash
+systemd-private-4a263924798c40949cde0be36b1668a3-ModemManager.service-WJMAWh
+systemd-private-4a263924798c40949cde0be36b1668a3-switcheroo-control.service-CtgkBh
+systemd-private-4a263924798c40949cde0be36b1668a3-systemd-logind.service-EebObg
+systemd-private-4a263924798c40949cde0be36b1668a3-systemd-resolved.service-BLmZ0f
+systemd-private-4a263924798c40949cde0be36b1668a3-systemd-timesyncd.service-xhADIi
+systemd-private-4a263924798c40949cde0be36b1668a3-upower.service-MU4V4e
+tracker-extract-files.1000
+tracker-extract-files.125
+VMwareDnD
